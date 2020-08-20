@@ -1,0 +1,26 @@
+Import Java.util.*;
+Class A {
+Static void halfDiamond star(intN)
+{
+int i, j;
+For(i=0;i<N;i++)
+{
+For(j=0;j<i+1;j++)
+System.out.print("*");
+System.out.print("\n");
+
+For(i=0;i<N;i++)
+{
+
+For(j=0;j<i+1;j++)
+
+System.out.print("*");
+System.out.print("\n");
+}
+}
+Public static void main(String[]args)
+{
+int N=5;
+//Function call
+half Diamondstart(N);}
+}
