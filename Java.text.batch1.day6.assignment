@@ -1,0 +1,35 @@
+Public class Student()
+Instance variable-- property.
+Int =name;
+Int=all no;
+Int=reg no;
+Int=class;
+Int=sessions;
+Instance variable.... Behavior.
+Public void good learning() {
+System.out.printIn("good learning");
+}
+Public void good   discipline() {
+System.out.printIn("good  discipline");
+}
+Public void  regular  student() {
+System.out.printIn(" regular student ");
+}
+Public class create student{
+Public static void main(string[]args) {
+Student Student obj1=new student();
+Reference variable<,> instance variable
+Student obj1.name=ram;
+Student obj2.roll no=02;
+Student obj3.reg no=12345;
+Student obj1.display();
+}
+Public void display(){
+System.out.printIn("name"+name);
+System.out.printIn("RollNo" +roll no);
+
+System.out.printIn("reg no" +reg no);
+System.out.printIn("class" +class);
+System.out.printIn("session" + session);
+}
+}
